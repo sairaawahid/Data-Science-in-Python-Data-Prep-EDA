@@ -19,7 +19,7 @@ This repository is not just coursework. It represents:
 - Building intuition for **what to explore, what to question, and what to ignore**
 - Practicing how to **extract signal from noise through structured analysis**
 
-## 🔍 Core Focus Areas
+## Core Focus Areas
 
 - Understanding the Data Science Workflow
 - Supervised vs Unsupervised Learning
@@ -34,7 +34,7 @@ This repository is not just coursework. It represents:
   - Feature engineering
   - Dataset merging & transformation
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 - Python
 - Pandas
@@ -43,7 +43,7 @@ This repository is not just coursework. It represents:
 - Data Visualization Libraries (Matplotlib / Seaborn)
 
 
-## 📚 Course Pathway
+## Course Pathway
 
 The work in this repository follows a structured progression:
 
@@ -70,6 +70,6 @@ Through this work, I have developed the ability to:
 - Data Analysts transitioning into more advanced roles  
 - Python learners aiming to work with real-world datasets  
 
-## 📌 Note
+## Note
 
 This repository is continuously evolving.
