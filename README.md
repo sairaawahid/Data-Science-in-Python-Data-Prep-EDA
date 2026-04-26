@@ -1,14 +1,25 @@
 # Data Science in Python: Data Preparation & EDA
 
-This repository documents my learning through a project-based course focused on the core building blocks of data science using Python. It covers the complete workflow from data gathering to exploratory data analysis (EDA) and feature engineering for machine learning.
+> Transforming raw data into meaningful insight. One dataset at a time.
 
 ## Overview
 
-The course introduces fundamental concepts in data science and machine learning, followed by a deep dive into data preparation and exploratory analysis. All work in this repository is based on practical exercises and projects designed to simulate real-world data science tasks.
+This repository captures my journey of building a strong foundation in data science through hands-on, project-based learning in Python.
 
-Throughout the course, I work as a Jr. Data Scientist at a fictional company, **Maven Music**, analyzing customer data to uncover insights into customer churn.
+Rather than approaching data science as a collection of tools, this work focuses on developing a structured way of thinking — how to move from ambiguous problems to clear, data-driven insights.
 
-## Key Learning Areas
+Working as a Jr. Data Scientist on a simulated business case (**Maven Music**), I analyze customer data to understand patterns in churn and user behavior. Each notebook reflects not just technical execution, but the reasoning and decision-making behind it.
+
+## What This Work Represents
+
+This repository is not just coursework. It represents:
+
+- Learning how to **translate business problems into analytical questions**
+- Developing the ability to **work with imperfect, real-world data**
+- Building intuition for **what to explore, what to question, and what to ignore**
+- Practicing how to **extract signal from noise through structured analysis**
+
+## 🔍 Core Focus Areas
 
 - Understanding the Data Science Workflow
 - Supervised vs Unsupervised Learning
@@ -20,10 +31,8 @@ Throughout the course, I work as a Jr. Data Scientist at a fictional company, **
   - Data visualization
   - Correlation
 - Data Preparation for Machine Learning
-  - Joining datasets
   - Feature engineering
-  - Feature Transformations
-  - Feature Scaling
+  - Dataset merging & transformation
 
 ## 🛠️ Tools & Technologies
 
@@ -32,3 +41,35 @@ Throughout the course, I work as a Jr. Data Scientist at a fictional company, **
 - NumPy
 - Google Colab
 - Data Visualization Libraries (Matplotlib / Seaborn)
+
+
+## 📚 Course Pathway
+
+The work in this repository follows a structured progression:
+
+1. Foundations of Data Science  
+2. Problem Scoping & Analytical Thinking  
+3. Data Gathering & Cleaning  
+4. Exploratory Data Analysis  
+5. Project-Based Application  
+6. Preparing Data for Machine Learning  
+
+## Key Outcomes
+
+Through this work, I have developed the ability to:
+
+- Approach data problems with a **clear analytical framework**
+- Clean, structure and validate messy datasets  
+- Perform EDA that leads to **meaningful, actionable insights**  
+- Prepare datasets for downstream machine learning tasks  
+- Communicate findings through **structured, visual narratives**  
+
+## Who This Is For
+
+- Aspiring Data Scientists building foundational skills  
+- Data Analysts transitioning into more advanced roles  
+- Python learners aiming to work with real-world datasets  
+
+## 📌 Note
+
+This repository is continuously evolving.
