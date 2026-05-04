@@ -39,9 +39,9 @@ This repository is not just coursework. It represents:
 - Python
 - Pandas
 - NumPy
+- Matplotlib
+- Seaborn
 - Google Colab
-- Data Visualization Libraries (Matplotlib / Seaborn)
-
 
 ## Course Pathway
 
