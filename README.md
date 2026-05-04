@@ -70,6 +70,6 @@ Through this work, I have developed the ability to:
 - Data Analysts transitioning into more advanced roles  
 - Python learners aiming to work with real-world datasets  
 
-## Note
+## ⓘ Note
 
 This repository is continuously evolving.
